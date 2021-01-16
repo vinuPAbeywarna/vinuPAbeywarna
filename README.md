@@ -23,8 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinupabeywarna&show_icons=true&locale=en" alt="vinupabeywarna" /></p>
 
-(https://github-readme-stats.vercel.app/api?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
