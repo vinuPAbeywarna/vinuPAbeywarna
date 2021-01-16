@@ -13,7 +13,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![idea](https://aleen42.github.io/badges/src/idea.svg)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![sublime_text](https://aleen42.github.io/badges/src/sublime_text.svg)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ## Languages and Framework
 
@@ -21,8 +25,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinupabeywarna&layout=compact&langs_count=8&theme=dark" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
